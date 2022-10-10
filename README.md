@@ -1,4 +1,4 @@
-### Hi there 👋
+Priya Sindkar is a Sr. Android Developer :woman_technologist: @<a href="https://novumlogic.com">Novumlogic Technologies Pvt.Ltd.</a> with an experience of 7+ years. She is passionate about building android apps. She is in :heart: with Kotlin and wants to revolutionise the way android apps are built in her locality. She believes in neat code and a clean architecture. Apart from coding her hobbies are reading books and writing technical blogs.
 
 <!--
 **PriyaSindkar/PriyaSindkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

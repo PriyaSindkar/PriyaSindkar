@@ -140,6 +140,9 @@ I'm Priya Sindkar, a Sr. Android Developer :woman_technologist: @<a href="https:
 
 ### 4.3 Open Source Projects
 
+- [Custom Exo Player](https://github.com/PriyaSindkar/CustomExoPlayer)
+    - An Android app showcasing customized Exoplayer using Jetpack Compose
+
 - [Jetpack Compose Material 3 Demo](https://github.com/PriyaSindkar/Material3Demo)
   - This is a sample project illustrating a demo of how to use the new Material 3 components and how they look like.
 

@@ -39,7 +39,7 @@ I'm Priya Sindkar, a Sr. Android Developer :woman_technologist: @<a href="https:
 
 ## 🌐 Contributions
 
-### 4.1 Talks
+### Talks
 
 - <a href = "https://www.youtube.com/watch?v=Hctt3qo_4xs&t=1150s&pp=ygUKZ2RnIGJhcm9kYQ%3D%3D"> Using Jetpack's Credential Manager for faster and safer sign-ins - GDG Baroda Monthly Meetup </a>
 
@@ -75,7 +75,7 @@ I'm Priya Sindkar, a Sr. Android Developer :woman_technologist: @<a href="https:
 
 - <a href = "https://gdg.community.dev/events/details/google-gdg-baroda-presents-getting-started-with-jetpack-compose/"> Hands on workshop on  Getting started with Jetpack Compose </a>
 
-### 4.2 Blogs
+### Blogs
 
 - [Using Android’s new Credential Manager API] (https://medium.com/novumlogic/using-androids-new-credential-manager-api-14a661cca66f)
   - Date: 20th Apr’ 2023
@@ -138,7 +138,7 @@ I'm Priya Sindkar, a Sr. Android Developer :woman_technologist: @<a href="https:
   - Date: 2019
   - In this blog, I explore when to use WorkManager while working with background processing?, Creating a background work with Android WorkManager, Working with WorkRequests, Constraints in Android WorkManager, Input Data, Worker Results, and Output Data in WorkManager, Observing Worker state via LiveData in WorkManager.
 
-### 4.3 Open Source Projects
+### Open Source Projects
 
 - [Custom Exo Player](https://github.com/PriyaSindkar/CustomExoPlayer)
     - An Android app showcasing customized Exoplayer using Jetpack Compose
